@@ -16,8 +16,12 @@ Usefull resources
 [2]: https://towardsdatascience.com/towards-a-more-applicative-pose-estimation-bf18bc311228
 [3]: https://www.researchgate.net/publication/368864097_Detection_of_3D_Human_Posture_Based_on_Improved_Mediapipe 
 
-## Demo (Click to view video)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iJvPCGDfUqs/0.jpg)](https://www.youtube.com/watch?v=iJvPCGDfUqs)
+## Demo
+![](https://github.com/NurNazaR/Improving-Mediapipe-pose-detection-with-1euro-noise-filtering-and-real-time-3D-visualization/blob/main/images_and_videos/static_plotly.png?raw=true)
+
+https://github.com/NurNazaR/Improving-Mediapipe-pose-detection-with-1euro-noise-filtering-and-real-time-3D-visualization/assets/62949953/25d4257e-cbec-47ed-bb01-1df10fde3bf9
+
+https://github.com/NurNazaR/Improving-Mediapipe-pose-detection-with-1euro-noise-filtering-and-real-time-3D-visualization/assets/62949953/b063f264-97c0-4565-9600-08f2ce0dd42e
 
 
 ## Further Work
