@@ -1,0 +1,9 @@
+Demo prototype someone implemented (hand motion capture)
+* Issue: Jitter problem in body pose prediction
+* https://github.com/google/mediapipe/issues/1293
+
+* https://www.youtube.com/watch?v=Vvo0LfjcLNU
+
+* https://www.youtube.com/watch?v=GPam8KU3ldw&t=93s
+
+* https://arxiv.org/pdf/2112.13715v2.pdf
